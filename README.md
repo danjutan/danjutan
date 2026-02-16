@@ -6,7 +6,7 @@ I’m a
 - technical writer who loves making complex ideas accessible
 - singer-songwriter performing at open mics around Atlanta
 
-I'm working on Songshed, a guitar tab editor, and I'm writing tech articles on my [blog](danjutan.com/blog).
+I'm working on [Songshed](https://github.com/danjutan/Songshed), a grid-based guitar tab editor, and I'm writing tech articles on my [blog](danjutan.com/blog).
 
 I'm looking for opportunities in technical writing and software engineering.
 
