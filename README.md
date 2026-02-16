@@ -8,7 +8,9 @@ I’m a
 
 I'm working on Songshed, a guitar tab editor, and I'm writing tech articles on my [blog](danjutan.com/blog).
 
-Learn more about me (and find my resume) at [danjutan.com](danjutan.com)!
+I'm looking for opportunities in technical writing and software engineering.
+
+Learn more about me at [danjutan.com](danjutan.com)!
 
 [Contact me](https://danjutan.com/contact/)
 
